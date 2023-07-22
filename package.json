@@ -1,6 +1,6 @@
 {
   "name": "calculate-building",
-  "version": "3.0",
+  "version": "3.0.0",
   "main": "./public/electron.js",
   "author": "Eason",
   "license": "MIT",
